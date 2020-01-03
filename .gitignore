@@ -105,3 +105,8 @@ venv.bak/
 
 # PyCharm
 .idea/
+
+# custom repo files
+ch02/datasets
+dask-worker-space
+*.pkl

@@ -10,12 +10,14 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
+  - joblib
   - nltk
   - jupyter
   - jupyterlab
   - nodejs>5
   - pyemd
   - beautifulsoup4
+  - dask
   - pip:
     - urlextract
     - modin[ray]

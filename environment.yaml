@@ -1,0 +1,21 @@
+name: ml-python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - nltk
+  - jupyter
+  - jupyterlab
+  - nodejs>5
+  - pyemd
+  - beautifulsoup4
+  - pip:
+    - urlextract
+    - modin[ray]

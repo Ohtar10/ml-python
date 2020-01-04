@@ -110,3 +110,6 @@ venv.bak/
 ch02/datasets
 dask-worker-space
 *.pkl
+spamham
+titanic
+submission.csv
